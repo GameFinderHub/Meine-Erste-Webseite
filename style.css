@@ -1,15 +1,23 @@
-body {
-    background-color: #111;
-    color: white;
-    font-family: Arial, sans-serif;
-    text-align: center;
+body{
+    background:#111;
+    color:white;
+    font-family:Arial, sans-serif;
+    text-align:center;
 }
 
-h1 {
-    color: #00ff88;
-    font-size: 50px;
+h1{
+    color:#00ff88;
+    margin:40px;
 }
 
-p {
-    font-size: 20px;
+.game{
+    margin-bottom:60px;
+}
+
+iframe{
+    width:800px;
+    max-width:90%;
+    height:450px;
+    border:none;
+    border-radius:12px;
 }
