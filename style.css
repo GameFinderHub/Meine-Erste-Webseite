@@ -32,10 +32,12 @@ iframe{
 }
 
 .game-card{
-    background:#1b1b1b;
+    background:#222;
     width:900px;
     max-width:90%;
     margin:40px auto;
     padding:25px;
     border-radius:15px;
+    border:2px solid #00ff88;
+    box-shadow:0 0 20px rgba(0,255,136,0.3);
 }
