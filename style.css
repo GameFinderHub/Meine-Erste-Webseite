@@ -30,3 +30,12 @@ iframe{
     border-radius:48px;
     box-shadow:0 5px 20px rgba(0,0,0.5);
 }
+
+.game-card{
+    background:#1b1b1b;
+    width:900px;
+    max-width:90%;
+    margin:40px auto;
+    padding:25px;
+    border-radius:15px;
+}
