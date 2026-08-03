@@ -77,11 +77,22 @@ iframe{
 
 header{
 
-    background:#1b1b1b;
+    background-image: url("images/gamefinder.jpg");
+    background-size: cover;
+    background-position: center;
+
+    height:400px;
 
     padding:25px;
 
     border-bottom:2px solid #00ff88;
+
+    color:white;
+
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
 
 }
 
