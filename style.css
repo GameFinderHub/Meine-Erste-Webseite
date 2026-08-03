@@ -18,7 +18,7 @@ h1{
 .subtitle{
     color:#bfbfbf;
     font-size:20px;
-    margin-top:-200px;
+    margin-top:-300px;
     margin-bottom:40px;
 }
 
@@ -111,6 +111,10 @@ nav a{
     margin:20px;
 
     font-size:40px;
+
+     margin-top:40px;
+    
+     margin-bottom:40px;
 
     transition:0.3s;
 
