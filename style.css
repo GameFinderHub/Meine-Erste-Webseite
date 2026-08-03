@@ -90,3 +90,23 @@ nav{
     margin-top:20px;
 
 }
+
+nav a{
+
+    color:white;
+
+    text-decoration:none;
+
+    margin:20px;
+
+    font-size:20px;
+
+    transition:0.3s;
+
+}
+
+nav a:hover{
+
+    color:#00ff88;
+
+}
