@@ -74,3 +74,19 @@ iframe{
     text-decoration:underline;
 
 }
+
+header{
+
+    background:#1b1b1b;
+
+    padding:25px;
+
+    border-bottom:2px solid #00ff88;
+
+}
+
+nav{
+
+    margin-top:20px;
+
+}
