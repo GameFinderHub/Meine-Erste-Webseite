@@ -93,6 +93,14 @@ header{
     justify-content:center;
     align-items:center;
 
+.banner{
+
+    width:100%;
+
+    display:block;
+
+}
+    
 nav{
 
     background:#1b1b1b;
